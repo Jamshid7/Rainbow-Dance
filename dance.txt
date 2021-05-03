@@ -1,3 +1,4 @@
 move left
 move right
+Twirle your hand
 and do rainbow dance
